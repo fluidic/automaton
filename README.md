@@ -1,0 +1,3 @@
+# automaton
+
+DFA implementation.
