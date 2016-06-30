@@ -1,5 +1,5 @@
 name: automaton
-description: .
+description: DFA implementation.
 version: 0.0.1
 author: Fluidic Team <dev@fluidic.io>
 homepage:
