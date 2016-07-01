@@ -1,5 +1,3 @@
-library automaton;
-
 export 'src/automaton.dart';
 export 'src/basic_automata.dart';
 export 'src/basic_operations.dart';
