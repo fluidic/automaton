@@ -2,7 +2,7 @@ name: automaton
 description: DFA implementation.
 version: 0.0.1
 author: Fluidic Team <dev@fluidic.io>
-homepage:
+homepage: https://github.com/fluidic/automaton
 environment:
   sdk: '>=1.17.0 <2.0.0'
 dependencies:
